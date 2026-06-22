@@ -13,7 +13,7 @@
 
 <!-- PROFILE BADGES -->
 ![Profile Views](https://komarev.com/ghpvc/?username=kandelsanjaya&color=2563eb&style=for-the-badge&label=PROFILE+VIEWS)
-[![Portfolio](https://img.shields.io/badge/🌐_Portfolio-kandelsanjaya.com.np-2563eb?style=for-the-badge)]([https://www.kandelsanjaya.com.np](https://portfolio.kandelsanjaya7.workers.dev/))
+[![Portfolio](https://img.shields.io/badge/🌐_Portfolio-kandelsanjaya.com.np-2563eb?style=for-the-badge)]([https://portfolio.kandelsanjaya7.workers.dev/)])
 [![Email](https://img.shields.io/badge/✉️_Email-kandelsanjaya7@gmail.com-ea4335?style=for-the-badge)](mailto:kandelsanjaya7@gmail.com)
 
 </div>
