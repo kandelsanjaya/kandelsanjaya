@@ -4,8 +4,9 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,50:1e3a8a,100:2563eb&height=220&section=header&text=Sanjaya%20Kandel&fontSize=60&fontColor=ffffff&fontAlignY=38&desc=Full-Stack%20Developer%20%7C%20AI%20Builder%20%7C%20UI%2FUX%20Designer&descAlignY=58&descSize=18&animation=fadeIn" width="100%"/>
 
 <!-- TYPING ANIMATION -->
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=GEORGIA+PRO&weight=100&size=22&pause=1000&color=70F729&width=335&lines=WELCOME+TO+MY+WORLD+!!!!!" alt="Typing SVG" />
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=GEORGIA+PRO&weight=100&size=22&pause=1000&color=70F729&width=335&lines=WELCOME+TO+MY+WORLD+!!!!!" alt="Typing SVG" /></a>
 <br>
+<a href="https://portfolio.kandelsanjaya7.workers.dev">
 MY PORTFOLIO</a>
 
 <br/>
