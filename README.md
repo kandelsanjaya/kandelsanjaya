@@ -4,13 +4,15 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,50:1e3a8a,100:2563eb&height=220&section=header&text=Sanjaya%20Kandel&fontSize=60&fontColor=ffffff&fontAlignY=38&desc=Full-Stack%20Developer%20%7C%20AI%20Builder%20%7C%20UI%2FUX%20Designer&descAlignY=58&descSize=18&animation=fadeIn" width="100%"/>
 
 <!-- TYPING ANIMATION -->
-<a href="[https://www.kandelsanjaya.com.np](https://portfolio.kandelsanjaya7.workers.dev/)">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=2563EB&center=true&vCenter=true&width=600&lines=Hey+there!+I'm+Sanjaya+👋;Full-Stack+Dev+from+Nepal+🇳🇵;Building+AI-powered+web+apps+🤖;UI%2FUX+Designer+%26+Creative+Coder+🎨;Co-Founder+of+DASA+%40+Media+🚀;Turning+ideas+into+digital+reality+✨" alt="MY PORTFOLIO" />
-</a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=GEORGIA+PRO&weight=100&size=22&pause=1000&color=70F729&width=335&lines=WELCOME+TO+MY+WORLD+!!!!!" alt="Typing SVG" />
+<br>
+MY PORTFOLIO</a>
+
+<br/>
 
 <!-- PROFILE BADGES -->
 ![Profile Views](https://komarev.com/ghpvc/?username=kandelsanjaya&color=2563eb&style=for-the-badge&label=PROFILE+VIEWS)
-[![Portfolio](https://img.shields.io/badge/🌐_Portfolio-kandelsanjaya.com.np-2563eb?style=for-the-badge)]([https://portfolio.kandelsanjaya7.workers.dev/)])
+[![Portfolio](https://img.shields.io/badge/🌐_Portfolio-kandelsanjaya.com.np-2563eb?style=for-the-badge)](https://www.kandelsanjaya.com.np)
 [![Email](https://img.shields.io/badge/✉️_Email-kandelsanjaya7@gmail.com-ea4335?style=for-the-badge)](mailto:kandelsanjaya7@gmail.com)
 
 </div>
@@ -25,7 +27,7 @@ location:   Bharatpur, Nepal 🇳🇵
 education:  BSc. CSIT — 4th Semester
 role:       Full-Stack Developer | AI Builder | UI/UX Designer
 company:    Co-Founder @ DASA Graphics & Media
-portfolio:  [www.kandelsanjaya.com.np](https://portfolio.kandelsanjaya7.workers.dev/)
+portfolio:  www.kandelsanjaya.com.np
 ```
 
 > *"I believe software should not only work flawlessly — it should feel alive, fluid, and delightful to interact with. I treat every project with dedication and artistic detail."*
@@ -124,13 +126,6 @@ portfolio:  [www.kandelsanjaya.com.np](https://portfolio.kandelsanjaya7.workers.
 
 ---
 
-## 🏆 GitHub Trophies
-
-<div align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=kandelsanjaya&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=8" width="100%"/>
-</div>
-
----
 
 ## 💼 Experience
 
@@ -153,10 +148,10 @@ portfolio:  [www.kandelsanjaya.com.np](https://portfolio.kandelsanjaya7.workers.
     └── Focused on software dev, AI, and system design
 
 📚  12th — Science (10+2)                                         2023
-    └── Janak Secondary School, Gaindakot ·
+    └── Janak Secondary School, Gaindakot · GPA 3.20
 
 📚  10th — SEE                                                    2021
-    └── Janak Secondary School, Gaindakot · 
+    └── Janak Secondary School, Gaindakot · GPA 3.90
 ```
 
 ---
