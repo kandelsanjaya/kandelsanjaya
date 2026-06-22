@@ -5,11 +5,8 @@
 
 <!-- TYPING ANIMATION -->
 <a href="[https://www.kandelsanjaya.com.np](https://portfolio.kandelsanjaya7.workers.dev/)">
-
-  MY PORTFOLIO 
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=2563EB&center=true&vCenter=true&width=600&lines=Hey+there!+I'm+Sanjaya+👋;Full-Stack+Dev+from+Nepal+🇳🇵;Building+AI-powered+web+apps+🤖;UI%2FUX+Designer+%26+Creative+Coder+🎨;Co-Founder+of+DASA+%40+Media+🚀;Turning+ideas+into+digital+reality+✨" alt="MY PORTFOLIO" />
 </a>
-
-<br/>
 
 <!-- PROFILE BADGES -->
 ![Profile Views](https://komarev.com/ghpvc/?username=kandelsanjaya&color=2563eb&style=for-the-badge&label=PROFILE+VIEWS)
